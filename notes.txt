@@ -1,3 +1,0 @@
-This is a file with a notes.
-Created for some reason.
-It allows me to traing my skills to work with git.
